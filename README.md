@@ -2,6 +2,7 @@
 
 This project is no longer being maintained. Please consider **drf-yasg** as an alternative/successor. I haven't personally used it, but it looks feature-complete and is actively maintained.
 
+### New changes
 ### https://github.com/axnsan12/drf-yasg
 
 Thanks for all the support and contributions over the years. Special thanks to [Lights on Software](https://lightsonsoftware.com/), [Lincoln Loop](https://lincolnloop.com/) and BNOTIONS for generously donating time to work on this project :heart:.
